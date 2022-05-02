@@ -1,8 +1,4 @@
-"""
- Assignment 2: Question 1, 2,3,4,5,6
- Name: Lakshmi Biradar
- Redid: 825975651
-"""
+
 #path for the files
 confirmed_cases_path = 'assignment2Data/covid_confirmed_usafacts.csv'
 population_info_path = 'assignment2Data/covid_county_population_usafacts.csv'
